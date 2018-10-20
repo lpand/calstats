@@ -17,7 +17,7 @@ describe('scan', () => {
         {kind: 'DTSTART', value: '20130906T143000Z'},
         {kind: 'DTEND', value: '20130906T150000Z'},
         {kind: 'END', value: 'VEVENT'},
-        {kind: 'END', value: 'VCALENDAR'},
+        {kind: 'END', value: 'VCALENDAR'}
       ]
     );
   });
